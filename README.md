@@ -60,12 +60,13 @@
 
 ---
 
-### 📊 Statistiques GitHub
+ ### 📊 Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=katirisraaa-prog&show_icons=true&theme=radical)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=katirisraaa-prog&layout=compact&theme=radical)
 
 ---
+
 
 💬 Ouverte aux opportunités de stage, d'emploi Full Stack et de poursuite d'études (licence) !
 
