@@ -15,7 +15,7 @@
 📫 Comment me contacter :
 - 📧 Email : katirisraaa@gmail.com
 - 🔗 LinkedIn : [linkedin.com/in/israakatir-4b2138362](https://www.linkedin.com/in/israa-katir-4b2138362)
-- 📄 CV : https://github.com/katirisraaa-prog/CV_israa/blob/main/CV_Katir_Israa.pdf
+- 📄 CV : https://github.com/katirisraaa-prog/Israa_CV/blob/main/CV_Katir_Israa%20(2).pdf
 
 ---
 
@@ -41,7 +41,7 @@
 - **🏢 Gestion des Stations — WINXO Group** *(Avril–Juin 2026)*
   Stage de fin de formation : application web de gestion centralisée des équipements de stations, avec **Laravel** et **React (Inertia.js)**.
 
-- **🎯 Organisation Dalil — Hay Hassani** *(Janvier 2026)*
+- **🎯 Organisation Dalil — Hay Hassani** *(Janvier/Février 2026)*
   Développement d'une interface front-end dynamique synchronisée avec le back-end/base de données pour une plateforme de gestion de loisirs.
 
 - **📅 Système de Réservation — Direction Régionale** *(Juin/Juillet 2025)*
