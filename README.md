@@ -40,15 +40,18 @@
 
 - **🏢 Gestion des Stations — WINXO Group** *(Avril–Juin 2026)*
   Stage de fin de formation : application web de gestion centralisée des équipements de stations, avec **Laravel** et **React (Inertia.js)**.
+  - Attestation : https://github.com/katirisraaa-prog/katirisraaa-prog/blob/main/Attestation%20de%20stage.pdf
 
 - **🎯 Organisation Dalil — Hay Hassani** *(Janvier/Février 2026)*
   Développement d'une interface front-end dynamique synchronisée avec le back-end/base de données pour une plateforme de gestion de loisirs.
+  - Certificat d'Excellence : https://github.com/katirisraaaprog/katirisraaaprog/blob/main/Certificat%20Association%20Dalil.pdf
 
 - **📅 Système de Réservation — Direction Régionale** *(Juin/Juillet 2025)*
   Application de réservation développée avec **Laravel**, **TailwindCSS** et **Breeze**.
 
 - **💡 Hackathon Innovation Camp — Attijari Wafa Banque** *(Décembre 2025)*
   Pitch d'une idée de fonctionnalité innovante basée sur l'IA pour la plateforme WaafaImmobilier.
+  - Certificat de Réussite : https://github.com/katirisraaaprog/katirisraaaprog/blob/main/Certificat%20AttijariWafaaBanque.pdf
 
 ---
 
