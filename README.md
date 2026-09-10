@@ -15,7 +15,7 @@
 📫 Comment me contacter :
 - 📧 Email : katirisraaa@gmail.com
 - 🔗 LinkedIn : [linkedin.com/in/israakatir-4b2138362](https://www.linkedin.com/in/israa-katir-4b2138362)
-- 📄 CV : https://github.com/katirisraaa-prog/Israa_CV/blob/main/CV_Katir_Israa%20(2).pdf
+- 📄 CV : https://github.com/katirisraaa-prog/CV_israa/blob/main/CV_Katir_Israa%20(4).pdf
 
 ---
 
