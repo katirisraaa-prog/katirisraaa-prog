@@ -43,6 +43,7 @@
 
 - **🌐 Stage WordPress — Be Bold** *(11 septembre – 21 novembre 2026)*
   Stage de 2 mois : création et gestion de sites **WordPress** pour les clients de l'agence.
+  - Attestation : https://github.com/katirisraaa-prog/katirisraaa-prog/blob/main/Attestation_de_stage.pdf
 
 - **🏢 Gestion des Stations — WINXO Group** *(Avril–Juin 2026)*
   Stage de fin de formation : application web de gestion centralisée des équipements de stations, avec **Laravel** et **React (Inertia.js)**.
